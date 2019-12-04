@@ -1,4 +1,4 @@
-# Mushroom-Classification
+# Mushroom Edibility Classification
 
 Using the Mushroom Dataset provided in the UCI Machine Learning repository, a Random Forest classifier was trained to classify
 the edibility of the dataset's mushrooms; the mushrooms were classified as either edible or poisonous. The final model was 
