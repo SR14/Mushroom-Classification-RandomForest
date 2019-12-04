@@ -1,4 +1,4 @@
-# Mushroom Edibility
+# Mushroom Edibility Classification
 
 **Project Overview:**
 > Using the Mushroom Dataset provided in the UCI Machine Learning repository, a Random Forest classifier was trained to 
